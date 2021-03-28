@@ -1,2 +1,2 @@
-# BMP4
+# Programming
 Documents needed for this course.
