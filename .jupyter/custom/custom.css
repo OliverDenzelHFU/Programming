@@ -11,7 +11,7 @@
 }
 
 body > #header {
-    background:  #f57b00;
+    background:  #264653;
 }
 
 .navbar-default {
@@ -21,7 +21,7 @@ body > #header {
 
 .navbar-default .navbar-nav > li > a, #kernel_indicator {
     color: rgba(255, 255, 255, 0.25);
-    border-bottom: 2px solid #f57b00;
+    border-bottom: 2px solid #264653;
     transition: all 0.25s;
 }
 
@@ -68,7 +68,7 @@ div#pager {
 
 .dropdown-menu {
     z-index: 999999 !important;
-    background-color: #f57b00;
+    background-color: #264653;
     opacity: 0.95;
 }
 
@@ -86,7 +86,7 @@ div#pager {
 }
 
 div.output_wrapper {
-    background: #eee;
+    background: #E9C46A;
 }
 
 div.cell.unselected div.output_area{
@@ -135,7 +135,7 @@ div.cell.selected .output_wrapper {
     border-left: 3px solid #2a7bbd;
     color: #444;
     page-break-inside: avoid;
-    font-family: monospace;
+    font-family: Moncao, "Lucida Console", monospace;
     font-size: 15px;
     line-height: 1.6;
     margin-bottom: 1.6em;
@@ -150,5 +150,10 @@ h1, .h1 {
     font-size: 33px;
     font-family: "Trebuchet MS";
     font-size: 2.5em !important;
-    color: #2a7bbd;
+    color: #2a9D8F
+}
+
+h2, .h2 {
+    font-family: "Trebuchet MS";
+    color: #2a9D8F;
 }
