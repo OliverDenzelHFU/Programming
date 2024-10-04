@@ -32,11 +32,15 @@ jobs:
       - name: Marp Build (README)
         uses: docker://marpteam/marp-cli:v1.7.0
         with:
-          args: Introduction/Introduction.md -o build/index.html --html
+          args: Introduction/Introduction.md -o build/Introduction.html --html
         env:
           MARP_USER: root:root
       - name: Setup Pages
         uses: actions/configure-pages@v5
+      - name: Generate Directory Listings
+        uses: jayanta525/github-pages-directory-listing@v4.0.0
+        with:
+          FOLDER: build      #directory to generate index        
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
