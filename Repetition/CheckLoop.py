@@ -3,3 +3,6 @@ def grade(b,cell):
 		b.button_style = 'success'
 	else:
 		b.button_style = 'danger'
+
+
+print("Test")
