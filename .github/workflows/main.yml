@@ -27,14 +27,21 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Copy images
-        run: mkdir build
+        run: mkdir -p build/pdf build/html
 
       - name: Marp Build (README)
         uses: docker://marpteam/marp-cli:v1.7.0
         with:
-          args: -I . -o build/ --html
+          args: -I . -o build/html --html
         env:
           MARP_USER: root:root
+      - name: Marp Build (README)
+        uses: docker://marpteam/marp-cli:v1.7.0
+        with:
+          args: -I . -o build/pdf --pdf
+        env:
+          MARP_USER: root:root
+          
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Generate Directory Listings
