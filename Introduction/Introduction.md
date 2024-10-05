@@ -26,10 +26,11 @@ backgroundImage: linear-gradient(to bottom,grey,darkgrey)
 * Implement your ideas
 
 # Why?
-<a href="https://youtu.be/xJqSu1IbcHg?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP">Computer Science is changing everything</a>
+[Computer Science is changing everything](https://youtu.be/xJqSu1IbcHg?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP)
 
 # Why?
-<a href="https://www.bitkom.org/sites/main/files/2023-12/231213bitkom-chartsit-fachkraeftefinal.pdf">![bg 50%](https://www.bitkom-research.de/sites/default/files/2023-12/231212-PK-Fachkräfte-Web.jpg)</a>
+![bg right 95%](https://www.bitkom-research.de/sites/default/files/2023-12/231212-PK-Fachkräfte-Web.jpg) 
+[Source](https://www.bitkom.org/sites/main/files/2023-12/231213bitkom-chartsit-fachkraeftefinal.pdf)
 
 # Why?
 <a href="https://www.bitkom.org/Presse/Presseinformation/Smart-City-Index-2024#_">![bg 50%](https://www.bitkom.org/sites/main/files/styles/wide/public/2024-09/240916-PK-Smart-City-Index-2024-web.png?itok=13HgRNBm)</a>
