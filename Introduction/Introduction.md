@@ -10,6 +10,7 @@ backgroundImage: linear-gradient(to bottom,grey,darkgrey)
 <!-- _paginate: skip -->
 <!-- _class: gaia lead -->
 # Introduction
+![bg left:40%](../img/robot1.jpg)
 
 # Why?
 
@@ -68,10 +69,25 @@ backgroundImage: linear-gradient(to bottom,grey,darkgrey)
 * Communication via MS Teams
 * Submission via Mail and MS Teams
 
-# Start Now!
-1) [Mincecraft Hour of Code](https://studio.code.org/s/mc)
-1) [The Farmer 1](https://studio.code.org/s/20-hour/lessons/9/levels/1)
-1) [The Farmer 2](https://studio.code.org/s/20-hour/lessons/13/levels/1)
-1) [The Farmer 3](https://studio.code.org/s/20-hour/lessons/17/levels/1)
-1) [Maze](https://blockly.games/maze)
+# Megatrends
+> Sie sind die größten Treiber des Wandels in **Wirtschaft und Gesellschaft** und prägen unsere Zukunft – nicht nur kurzfristig, sondern auf mittlere bis lange Sicht. Megatrends entfalten ihre Dynamik über Jahrzehnte.
 
+[Source](https://www.zukunftsinstitut.de/zukunftsthemen/die-megatrend-map)
+
+#
+<!-- _footer: "" -->
+![bg left:75% 100%](https://www.zukunftsinstitut.de/hubfs/Megatrend-Map_2021-1.png)
+
+[Source](https://www.zukunftsinstitut.de/hubfs/Megatrend-Map_2021-1.png)
+
+# And... Action!
+
+Form a team.
+
+Choose one of the two Mega Trends: 
+* [Neo-Ökologie](https://www.zukunftsinstitut.de/zukunftsthemen/megatrend-neo-oekologie) 
+* [Wissenskultur](https://www.zukunftsinstitut.de/zukunftsthemen/megatrend-wissenskultur)
+
+Read the corresponding article.
+
+Then choose one of the subtrends (e.g. Lifelong Learning)
