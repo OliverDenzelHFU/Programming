@@ -37,6 +37,11 @@ backgroundImage: linear-gradient(to bottom,grey,darkgrey)
 ![bg right:75% 75%](https://www.bitkom.org/sites/main/files/styles/wide/public/2024-09/240916-PK-Smart-City-Index-2024-web.png?itok=13HgRNBm) 
 [Source](https://www.bitkom.org/Presse/Presseinformation/Smart-City-Index-2024#_)
 
+# Why?
+< 8 von 10 Startups wollen neue Mitarbeiterinnen und Mitarbeiter einstellen.
+[Source](https://www.bitkom.org/print/pdf/node/21708)
+
+
 # How?
 | Goals | Anti Patterns |
 | --- | --- |
@@ -68,6 +73,10 @@ backgroundImage: linear-gradient(to bottom,grey,darkgrey)
 * Each team all 3 parts
 * Communication via MS Teams
 * Submission via Mail and MS Teams
+
+# 
+[Create with computer science](https://youtu.be/lud4bU3YY9U?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP)
+
 
 # Megatrends
 > Sie sind die größten Treiber des Wandels in **Wirtschaft und Gesellschaft** und prägen unsere Zukunft – nicht nur kurzfristig, sondern auf mittlere bis lange Sicht. Megatrends entfalten ihre Dynamik über Jahrzehnte.
