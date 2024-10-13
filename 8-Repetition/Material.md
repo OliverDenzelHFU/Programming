@@ -23,6 +23,7 @@ headingDivider: 2
 
 * [Hard working Movie stars](https://resume.io/blog/worlds-hardest-working-hollywood-stars)
 * [Netflix Top10](https://top10.netflix.com)
+* [Kevin Bacon Game](https://digg.com/stat-significant/link/quantifying-the-kevin-bacon-game-a-statistical-exploration-of-hollywoods-most-connected-actors?utm_source=digg)
 
 ## Covid 19 related
 
@@ -37,6 +38,7 @@ headingDivider: 2
 
 * [1918 Spanish Flu Pandemic in Data and Charts — DataViz Weekly](https://www.anychart.com/blog/2020/04/17/spanish-flu-data-charts/)
 * [The Cost of Addiction: The Real Price You Pay for Drugs and Alcohol](https://www.detox.net/uncover/cost-addiction-drugs-alcohol/)
+* [Dirtiest Cities in America](https://www.visualcapitalist.com/mapped-the-10-dirtiest-cities-in-america/)
 
 ## Pokemon
 
@@ -55,6 +57,7 @@ headingDivider: 2
 * [Revenue Streams of the biggest companies](https://i.redd.it/1zz3wzx1az701.jpg)
 * [The Oldest Restaurant In (Almost) Every Country](https://www.netcredit.com/blog/oldest-restaurant-in-every-country/)
 * [Vacation Days per Country](https://cdn.digg.com/wp-content/uploads/2022/11/18132455/vacation-days-countries-world.png)
+* [Travel Budgets for 15 cities](https://www.visualcapitalist.com/mapped-daily-travel-budgets-for-15-european-countries/)
  
  
  ## Funny
