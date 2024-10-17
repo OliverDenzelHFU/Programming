@@ -37,3 +37,13 @@ backgroundImage: linear-gradient(rgb(30, 65, 94) 10%, rgb(43, 91, 132) 90%);
 # Replit Start
 [replit](https://replit.com/@OliverDenzelHFU/HelloWorld?v=1)
 <iframe src="https://replit.com/@OliverDenzelHFU/HelloWorld?embed=true" width="600" height="400"></iframe>
+
+# [Glot.io Start](https://glot.io/snippets/h0y5qqpwx7)
+
+<iframe width="900" height="500" src="https://glot.io/snippets/h0y5qqpwx7"></iframe>
+
+# PyScript
+
+<iframe src="https://oliverdenzelhfu.pyscriptapps.com/helloworld/"></iframe>
+
+[start](https://pyscript.com/@oliverdenzelhfu/helloworld/)
