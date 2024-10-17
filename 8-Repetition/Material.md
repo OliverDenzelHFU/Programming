@@ -1,7 +1,14 @@
 ---
 marp: true
+theme: gaia
+footer: ':copyright: 2024 Oliver Denzel'
+paginate: true
+class: gaia
 headingDivider: 2
+
 ---
+<!-- _paginate: skip -->
+<!-- _class: gaia lead -->
 
 # Reading Tips for the assignment
 
@@ -18,6 +25,13 @@ headingDivider: 2
 * [Stage of life / Math skills](https://i.redd.it/fyfmu7ewoqi41.jpg)
 * **[Data Grammar](https://www.behance.net/gallery/83894451/Catalogue-de-graphes-pour-dataviz-data-grammar)**
 * **[Information is beautiful](https://informationisbeautiful.net/beautifulnews/)**
+* [How common is your birthday](https://public.tableau.com/app/profile/lisa.trescott/viz/HowCommonIsYourBirthday_17222664505560/Birthday)
+
+## US Centric
+* [Illegal Drug labs by state](https://www.criminalattorneycincinnati.com/which-u-s-cities-have-had-the-most-illegal-drug-labs-raided-by-the-dea-over-the-past-10-years/)
+* [Hardest working states](https://www.visualcapitalist.com/mapped-u-s-states-that-work-the-hardest/)
+* [Average IQ per state](https://www.visualcapitalist.com/mapped-average-iq-score-by-state/)
+* [Life expectancy by state](https://www.forbes.com/advisor/life-insurance/states-with-the-largest-decline-in-life-expectancy/)
 
 ## Media stats
 
@@ -58,6 +72,8 @@ headingDivider: 2
 * [The Oldest Restaurant In (Almost) Every Country](https://www.netcredit.com/blog/oldest-restaurant-in-every-country/)
 * [Vacation Days per Country](https://cdn.digg.com/wp-content/uploads/2022/11/18132455/vacation-days-countries-world.png)
 * [Travel Budgets for 15 cities](https://www.visualcapitalist.com/mapped-daily-travel-budgets-for-15-european-countries/)
+* [Health of nations](https://themeasureofaplan.com/wealth-map/)
+* [Number of Earths needed](https://www.visualcapitalist.com/the-number-of-earths-needed-for-different-countries-lifestyles/)
  
  
  ## Funny
