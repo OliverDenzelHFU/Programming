@@ -51,8 +51,9 @@ Scratch is a visual programming environment similar to code.org.
 
 # To prepare
 * Create an account on
-  * replit.com
-  * scratch.mit.edu
+  * [replit.com](replit.com)
+  * [scratch.mit.edu](scratch.mit.edu)
+  * [github.com](github.com)
 * Choose a team name
 * Setup infrastructure
   * File share
