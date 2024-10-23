@@ -22,37 +22,48 @@ backgroundImage: linear-gradient(rgb(255, 140, 26) 10%, darkred 90%);
 
 # Ordinals
 
+```python
 c = 10
 pi = 3.1415
 sunUp = True
 radius = 10
 circumfence = 2*radius*pi
+```
+
+![](../img/scratch/variables/change.svg)
+![](../img/scratch/variables/set.svg)
+![](../img/scratch/variables/setWithCalculation.svg)
+![](../img/scratch/variables/show.svg)
+![](../img/scratch/variables/hide.svg)
 
 # Lists
+```python
 cats = ["Lion", "Tiger", "Gepard"]
 odd = [1,3,5,7,9]
 favorites = [13, Black, "Chocolate"]
-
+```
 # Text
+```python
 welcome = "Hello World!"
 username = "Denzel"
 greeting = welcome + " " + username
-
+```
+![](../img/scratch/variables/textExample.svg)
 # Objects
+```python
 control = widgets.IntSlider(100)
 black = (0,0,0)
 titanic = pd.read_csv("data/titanic.csv")
-
+```
 # Demo & Exercise
-## Scratch
-
-[Exercise](https://scratch.mit.edu/projects/396302394/)
+## [Scratch Exercise](https://scratch.mit.edu/projects/1086026680/)
 
 * Remix to your account
-* Add Blood & Water Volume
-
-[Blood Volume](https://reference.medscape.com/calculator/648/estimated-blood-volume)
-[Water Volume](https://www.omnicalculator.com/health/body-water#how-does-total-body-water-calculator-work)
+* Add [caffeine quantity](https://www.eufic.org/en/healthy-living/article/caffeine-levels-in-different-foods-and-drinks) for energy and sodas
+* Add labels for the icons
+* Let the wizards hat tell you: 
+    * the amount of water drunken
+    * the amount of calories
 
 # Demo & Exercise
 ## Python / Jupyter
