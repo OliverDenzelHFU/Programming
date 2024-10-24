@@ -70,7 +70,9 @@ titanic = pd.read_csv("data/titanic.csv")
 
 [Exercise & Demo](https://mybinder.org/v2/gh/OliverDenzelHFU/Programming/06d20b395168c9750f7cee1e2ab70e477752a42a?urlpath=lab%2Ftree%2F3-Variables%2FVariables.ipynb)
 
-* Add Blood & Water Volume
+* Add amount of water and calories
+* Add energy drink and sodas
+* Format as table usind `\t`
 * Download changed Notebook
 
 # Till next time
