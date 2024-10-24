@@ -66,14 +66,16 @@ titanic = pd.read_csv("data/titanic.csv")
     * the amount of calories
 
 # Demo & Exercise
-## Python / Jupyter
-
-[Exercise & Demo](https://mybinder.org/v2/gh/OliverDenzelHFU/Programming/06d20b395168c9750f7cee1e2ab70e477752a42a?urlpath=lab%2Ftree%2F3-Variables%2FVariables.ipynb)
+## [Python / Jupyter Exercise & Demo](https://mybinder.org/v2/gh/OliverDenzelHFU/Programming/06d20b395168c9750f7cee1e2ab70e477752a42a?urlpath=lab%2Ftree%2F3-Variables%2FVariables.ipynb)
 
 * Add amount of water and calories
 * Add energy drink and sodas
 * Format as table usind `\t`
 * Download changed Notebook
+
+# [Demo & Exercise Glot.io](https://glot.io/snippets/h15viox8ry)
+
+<iframe frameborder='0' scrolling='no' sandbox='allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts' width="900" height="500" src="https://glot.io/snippets/h15viox8ry/embed"></iframe>
 
 # Till next time
 
