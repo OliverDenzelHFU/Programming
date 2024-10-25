@@ -55,6 +55,8 @@ control = widgets.IntSlider(100)
 black = (0,0,0)
 titanic = pd.read_csv("data/titanic.csv")
 ```
+# Binary
+[Binary](https://sethideclercq.com/tools/binaryvisualiser.html)
 # Demo & Exercise
 ## [Scratch Exercise](https://scratch.mit.edu/projects/1086026680/)
 
