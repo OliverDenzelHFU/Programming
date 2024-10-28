@@ -26,3 +26,14 @@ else:
     print ("Hello Aliens")
 ```
 ![](../img/scratch/conditions/conditions.svg)
+# Loops
+```python
+for x in range(10):
+    print (x)
+while (sunUp):
+    print ("A day without sunshine, is, you know, night.)
+```
+![](../img/scratch/conditions/loops.svg)
+# Demo
+[Start Demo...](https://scratch.mit.edu/projects/398569407/)
+[And Exercise...](https://studio.code.org/s/frozen/lessons/1/levels/4)
