@@ -60,24 +60,25 @@ titanic = pd.read_csv("data/titanic.csv")
 # Demo & Exercise
 ## [Scratch Exercise](https://scratch.mit.edu/projects/1086026680/)
 
-* Remix to your account
-* Add [caffeine quantity](https://www.eufic.org/en/healthy-living/article/caffeine-levels-in-different-foods-and-drinks) for energy and sodas
-* Add labels for the icons
+* Remix to your account (Login first)
+* Add [caffeine quantity](https://www.eufic.org/en/healthy-living/article/caffeine-levels-in-different-foods-and-drinks) for energy <small>(80 mg)</small> and sodas <small>(37 mg)</small>
+* Add labels for the icons at each sprite
 * Let the wizards hat tell you: 
-    * the amount of water drunken
-    * the amount of calories
+    * the amount of water drunken <small>(200ml, 250ml, 250ml, 355 ml)</small>
+    * the amount of calories <small>(4 kcal, 5 kcal, 105 kcal, 153 kcal)</small>
 
 # Demo & Exercise
 ## [Python / Jupyter Exercise & Demo](https://mybinder.org/v2/gh/OliverDenzelHFU/Programming/06d20b395168c9750f7cee1e2ab70e477752a42a?urlpath=lab%2Ftree%2F3-Variables%2FVariables.ipynb)
 
-* Add amount of water and calories
-* Add energy drink and sodas
-* Format as table usind `\t`
+* Add energy drink and sodas, water and calories
+* Format as table using `\t` (e.g. Coffee\tTea\tEnergy\Soda)
 * Download changed Notebook
 
 # [Demo & Exercise Glot.io](https://glot.io/snippets/h15viox8ry)
-
-<iframe frameborder='0' scrolling='no' sandbox='allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts' width="900" height="500" src="https://glot.io/snippets/h15viox8ry/embed"></iframe>
+* Login and Fork
+* Add Input Text to Input box
+* Add energy drink and sodas, water and calories
+* Format as table using `\t` (e.g. Coffee\tTea\tEnergy\Soda)
 
 # Till next time
 
