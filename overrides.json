@@ -2,5 +2,11 @@
     "@jupyterlab/apputils-extension:notification": {
       "checkForUpdates": false,
       "fetchNews": "false"
+    },
+    "@jupyterlab/fileeditor-extension:plugin": {
+      "editorConfig": {
+        "autoClosingBrackets": true,
+        "codeFolding": true
+      }
     }
   }
