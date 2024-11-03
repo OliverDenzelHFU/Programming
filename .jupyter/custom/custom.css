@@ -1,7 +1,7 @@
 #top-panel-wrapper,
 #jp-top-bar,
-#jp-OutputArea-output {
-  background-color: pink !important;
+.jp-OutputArea-output {
+  background-color: #2a9D8F !important;
 }
 
 
@@ -142,7 +142,7 @@ div.cell.selected .output_wrapper {
     border-left: 3px solid #2a7bbd;
     color: #444;
     page-break-inside: avoid;
-    font-family: Moncao, "Lucida Console", monospace;
+    font-family: monaco, Consolas, Lucida Console, monospace;
     font-size: 15px;
     line-height: 1.6;
     margin-bottom: 1.6em;
@@ -155,12 +155,12 @@ div.cell.selected .output_wrapper {
 
 h1, .h1 {
     font-size: 33px;
-    font-family: "Trebuchet MS";
+    font-family: "Fira Sans","Trebuchet MS";
     font-size: 2.5em !important;
     color: #2a9D8F
 }
 
 h2, .h2 {
-    font-family: "Trebuchet MS";
+    font-family: "Fira Sans","Trebuchet MS";
     color: #2a9D8F;
 }
