@@ -17,6 +17,7 @@ backgroundImage: linear-gradient(rgb(255, 171, 14) 10%, #874624 90%);
 > Conditions are executed once at most, loops possibly multiple times.
 
 # Conditions
+## Python
 ```python
 if sunUp:
     print ("Hallo Sonne!")
@@ -25,19 +26,24 @@ if onEarth:
 else:
     print ("Hello Aliens")
 ```
+# Conditions
+## Scratch
 ![](../img/scratch/conditions/conditions.svg)
 # Loops
+## Python
 ```python
 for x in range(10):
     print (x)
 while (sunUp):
     print ("A day without sunshine, is, you know, night.)
 ```
+# Loops
+## Scratch
 ![](../img/scratch/conditions/loops.svg)
 # Demo Scratch
 [Start Demo...](https://scratch.mit.edu/projects/398569407/)
 [And Exercise...](https://studio.code.org/s/frozen/lessons/1/levels/4)
-# [Demo Python](https://mybinder.org/v2/gh/OliverDenzelHFU/Programming/main?urlpath=tree%2FLoops%2FLoops.ipynb)
+# [Demo Python](https://mybinder.org/v2/gh/OliverDenzelHFU/Programming/main?urlpath=tree%2F4-Loops%2FLoops.ipynb)
 1. Change the latitude and longitude to your position
 2. Add a fourth condition => between 12:00 and 13:00 for "Mahlzeit!"
 3. Change the Pattern Examples
