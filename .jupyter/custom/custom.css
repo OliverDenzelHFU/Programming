@@ -1,7 +1,9 @@
 #top-panel-wrapper,
-#jp-top-bar {
+#jp-top-bar,
+#jp-output-area {
   background-color: pink !important;
 }
+
 
 #notebook-container{
     box-shadow: none !important;
