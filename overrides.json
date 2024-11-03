@@ -6,7 +6,24 @@
     "@jupyterlab/fileeditor-extension:plugin": {
       "editorConfig": {
         "autoClosingBrackets": true,
-        "codeFolding": true
+        "codeFolding": true,
+        "autoCompletion": true
       }
-    }
+    },
+    "@jupyterlab/mainmenu-extension:menus": {
+      "menus": [
+        {
+          "id": "jp-mainmenu-file",
+          "items": [
+            {
+              "command": "filemenu:logout",
+              "disabled": true
+            },
+            {
+              "command": "filemenu:shutdown",
+              "disabled": true
+            }
+          ]
+        }
+      ]
   }
