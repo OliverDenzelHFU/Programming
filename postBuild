@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+set -eux
+
+# Create the directory
+mkdir -p ${NB_PYTHON_PREFIX}/share/jupyter/lab/settings
+if [[ $? -eq 0 ]]; then
+  echo "Successfully created the directory ${NB_PYTHON_PREFIX}/share/jupyter/lab/settings"
+else
+  echo "Failed to create the directory ${NB_PYTHON_PREFIX}/share/jupyter/lab/settings" >&2
+  exit 1
+fi
+
+# Copy the overrides.json file
+cp overrides.json ${NB_PYTHON_PREFIX}/share/jupyter/lab/settings
+if [[ $? -eq 0 ]]; then
+  echo "Successfully copied overrides.json to ${NB_PYTHON_PREFIX}/share/jupyter/lab/settings"
+else
+  echo "Failed to copy overrides.json to ${NB_PYTHON_PREFIX}/share/jupyter/lab/settings" >&2
+  exit 1
+fi
