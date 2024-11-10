@@ -11,21 +11,25 @@ headingDivider: 2
 <!-- _class: gaia lead -->
 
 # Reading Tips for the assignment
+![bg left:40%](../img/robot11.jpg)
 
 ## General statistics
 
+* [Why Statistics Don’t Capture The Full Extent Of The Systemic Bias In Policing](https://fivethirtyeight.com/features/why-statistics-dont-capture-the-full-extent-of-the-systemic-bias-in-policing/?utm_source=digg)
+* **[The solar system](https://i.redd.it/wr1r93iv2he41.jpg)**
+* [PYPL PopularitY of Programming Language index](http://pypl.github.io/PYPL.html)
+* **[Data Grammar](https://www.behance.net/gallery/83894451/Catalogue-de-graphes-pour-dataviz-data-grammar)**
+* [How common is your birthday](https://public.tableau.com/app/profile/lisa.trescott/viz/HowCommonIsYourBirthday_17222664505560/Birthday)
+* [Difference between perception and reality in immigration](https://www.visualcapitalist.com/almost-everyone-overestimates-how-many-immigrants-live-in-their-home-country/)
+
+## Statistics Collections
 * [Reddit for Datasets](https://www.reddit.com/r/datasets/)
 * [Google Search Engine for Datasets](https://datasetsearch.research.google.com)
 * [Datasets by fivethirtyeight](https://data.fivethirtyeight.com)
-* [Why Statistics Don’t Capture The Full Extent Of The Systemic Bias In Policing](https://fivethirtyeight.com/features/why-statistics-dont-capture-the-full-extent-of-the-systemic-bias-in-policing/?utm_source=digg)
-* **[Different statistical visualisations](https://datavisualiseworld.wordpress.com/posts/)**
-* **[The solar system](https://i.redd.it/wr1r93iv2he41.jpg)**
-* [PYPL PopularitY of Programming Language index](http://pypl.github.io/PYPL.html)
 * [Different Datasets intended for machine learning](https://www.openml.org/search?type=data)
-* [Stage of life / Math skills](https://i.redd.it/fyfmu7ewoqi41.jpg)
-* **[Data Grammar](https://www.behance.net/gallery/83894451/Catalogue-de-graphes-pour-dataviz-data-grammar)**
-* **[Information is beautiful](https://informationisbeautiful.net/beautifulnews/)**
-* [How common is your birthday](https://public.tableau.com/app/profile/lisa.trescott/viz/HowCommonIsYourBirthday_17222664505560/Birthday)
+* [Information is beautiful](https://informationisbeautiful.net/beautifulnews/)
+* [Different statistical visualisations](https://datavisualiseworld.wordpress.com/posts/)
+* [Dashboard Deutschland](https://www.dashboard-deutschland.de)
 
 ## US Centric
 * [Illegal Drug labs by state](https://www.criminalattorneycincinnati.com/which-u-s-cities-have-had-the-most-illegal-drug-labs-raided-by-the-dea-over-the-past-10-years/)
@@ -33,6 +37,7 @@ headingDivider: 2
 * [Average IQ per state](https://www.visualcapitalist.com/mapped-average-iq-score-by-state/)
 * [Life expectancy by state](https://www.forbes.com/advisor/life-insurance/states-with-the-largest-decline-in-life-expectancy/)
 * [Working hours to pay rent](https://www.self.inc/info/work-hours-to-pay-rent/)
+* [Restriction on false informations](https://www.pewresearch.org/short-reads/2023/07/20/most-americans-favor-restrictions-on-false-information-violent-content-online/s)
 
 ## Media stats
 
@@ -76,27 +81,12 @@ headingDivider: 2
 * [Health of nations](https://themeasureofaplan.com/wealth-map/)
 * [Number of Earths needed](https://www.visualcapitalist.com/the-number-of-earths-needed-for-different-countries-lifestyles/)
 * [Cost of living](https://smartasset.com/data-studies/united-states-europe-col-2023)
- * [Years to work of a condo](https://www.voronoiapp.com/real-estate/How-Many-Years-Does-it-Take-to-Save-for-a-Condo--2761)
+* [Years to work of a condo](https://www.voronoiapp.com/real-estate/How-Many-Years-Does-it-Take-to-Save-for-a-Condo--2761)
+* [Difference between rich and poor per country](https://www.voronoiapp.com/wealth/How-far-apart-are-the-incomes-of-the-rich-and-poor-in-different-countries-2617)
  
  ## Funny
- 
-* [Pyramid](https://i.redd.it/7oy9k33ifij41.jpg)
+ * [Pyramid](https://i.redd.it/7oy9k33ifij41.jpg)
 * [Pizza](https://i.redd.it/oa5gyhjre7h31.jpg)
 * [TV Watch Party](https://i.redd.it/sbrpx4e8y1e01.jpg)
 * [Bald men](https://www.voronoiapp.com/maps/Percentage-of-Bald-Males-by-Country-2765)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* [Stage of life / Math skills](https://i.redd.it/fyfmu7ewoqi41.jpg)
