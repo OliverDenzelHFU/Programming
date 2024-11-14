@@ -16,6 +16,23 @@ backgroundImage: linear-gradient(rgb(255, 140, 26) 10%, darkred 90%);
 # What is it?
 > A method is a callable unit of software logic. It has an identifier, potentially parameters and possibly a return value.
 
+# Methods
+## Scratch
+![](../img/scratch/methods/methods.svg)
+
+# Methods
+## Python
+```python
+def fac(x):
+    # Faculty for 0 is defined as 1
+    if (x == 0):
+        return 1
+    else:
+    # Faculty for x is x*fac(x-1)
+        return fac(x-1)*x
+
+fac(5)
+```
 # Scratch
 [Sierpinski](https://scratch.mit.edu/projects/24584643/editor)
 [Recursion Tree](https://scratch.mit.edu/projects/10240446/editor)
