@@ -28,7 +28,7 @@ Extend the game to:
 4. Change allowedWords to another language
 5. Add currentChar to a new list
 
-# [Jupyter](https://mybinder.org/v2/gh/OliverDenzelHFU/Programming/main?filepath=Lists%2FLists.ipynb)
+# [Jupyter](https://mybinder.org/v2/gh/OliverDenzelHFU/Programming/main?filepath=6-Lists%2FLists.ipynb)
 
 Exercise written inline in Jupyter Notebook.
 
