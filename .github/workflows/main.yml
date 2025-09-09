@@ -42,10 +42,13 @@ jobs:
         env:
           MARP_USER: root:root
 
-      - uses: actions/setup-python@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+            python-version: '3.11'
 
       - run: pip install -r requirements.txt
-      - run: jupyter lite build --extra-ignore-contents ".vscode" --contents ./3-Variables --output-dir ./build/lite 
+      - run: jupyter lite build --contents ./3-Variables --output-dir ./build/lite 
           
       - name: Setup Pages
         uses: actions/configure-pages@v5
