@@ -72,6 +72,7 @@ jobs:
         uses: actions/download-artifact@v5
         with:
           path: build
+          merge-multiple: true
          
       - name: Setup Pages
         uses: actions/configure-pages@v5
