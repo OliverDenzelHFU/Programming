@@ -1,3 +1,20 @@
 {
-    "python.pythonPath": "/Users/olid/opt/anaconda3/bin/python"
+    "python.pythonPath": "/Users/olid/opt/anaconda3/bin/python",
+    "markdownlint.config": {
+        "MD026": { "punctuation": ".,;:" },
+        "MD033": false
+    },
+    "markdown.marp.themes": [
+        "https://cunhapaulo.github.io/marpx/themes/marpx.css",
+        "https://cunhapaulo.github.io/marpx/themes/copernicus.css",
+        "https://cunhapaulo.github.io/marpx/themes/einstein.css",
+        "https://cunhapaulo.github.io/marpx/themes/frankfurt.css",
+        "https://cunhapaulo.github.io/marpx/themes/galileo.css",
+        "https://cunhapaulo.github.io/marpx/themes/gödel.css",
+        "https://cunhapaulo.github.io/marpx/themes/gropius.css",
+        "https://cunhapaulo.github.io/marpx/themes/newton.css",
+        "https://cunhapaulo.github.io/marpx/themes/socrates.css",
+        "https://cunhapaulo.github.io/marpx/themes/sparta.css"
+    ]
+
 }

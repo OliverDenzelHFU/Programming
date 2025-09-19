@@ -1,22 +1,20 @@
 ---
 marp: true
-theme: gaia
-footer: ':copyright: 2024 Oliver Denzel'
+theme: sparta
 paginate: true
-class: gaia
-headingDivider: 1
-backgroundImage: linear-gradient(to bottom,darkviolet,rgb(133, 92, 214))
+headingDivider: 2
 ---
 <!-- _paginate: skip -->
-<!-- _class: gaia lead -->
-# Scratch 
-## Intro
+# Scratch Intro
+<!-- _class: title -->
 ![bg left:40%](../img/robot3.jpg)
 
-# What?
-Scratch is a visual programming environment similar to code.org.
+---
+<!-- _class: quote dark -->
+> Scratch is a visual programming environment similar to code.org.
 
-# Strengths
+## Strengths
+
 * Viusally appealing programs
 * Short development time
 * Low barrier for entry
@@ -24,7 +22,8 @@ Scratch is a visual programming environment similar to code.org.
 * Big media library
 * All public projects are remixable
 
-# Limits
+## Limits
+
 * Only single user
 * No versioning
 * Project is either private or public
@@ -32,24 +31,28 @@ Scratch is a visual programming environment similar to code.org.
 * No debugging tools
 * All projects look similar
 
-# Practice
+## Practice
 
 [scratch.mit.edu](https://scratch.mit.edu)
+
 * Demo: Overview of all elements
 * Demo: Draw a pattern
 * Exercise: Create a program for the "[Haus vom Nicolaus](https://youtu.be/WuEk9FFT2Ms)".
 
-# Details for the exercise
-* Change backdrop to "Slopes" and sprite to "Reindeer"
-* Draw the "Haus vom Nicolaus" with a base size of 100
-  1. Position and orient the sprite
-  2. Blank the screen and pen down  
-  3. Draw using steps or coordinates
+## Details for the exercise
+
+* Backdrop to "Slopes" and Sprite to "Reindeer"
+* Draw the "Haus vom Nicolaus"
+  1. With a base size of 100
+  2. Position and orient the Reindeer
+  3. Blank the screen and pen down  
+  4. Draw using steps or coordinates
 * Animate the drawing (use wait)
 * Save to Cloud and personal drive
 * Get creative (Colors, Sizes, Stamp, ...)
 
-# To prepare
+## To prepare
+
 * Create an account on
   * [replit.com](replit.com)
   * [scratch.mit.edu](scratch.mit.edu)
