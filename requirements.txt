@@ -4,5 +4,6 @@ pandas
 bokeh
 rise
 ipympl
+otter-grader
 jupyterlite
 jupyterlite-pyodide-kernel
