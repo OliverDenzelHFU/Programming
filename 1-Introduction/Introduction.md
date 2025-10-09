@@ -86,7 +86,11 @@ headingDivider: 2
 
 ---
 
-[Create with computer science](https://youtu.be/lud4bU3YY9U?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP)
+<video controls height="400px">
+  <source src="https://contentful-videos.code.org/90t6bu6vlf76/5O0hC2nclSmquSueZLcgT5/bfea2005984c2b520dfba0ec1276e878/videoplayback__12_.mp4" />
+</video>
+
+[Create with computer science](https://contentful-videos.code.org/90t6bu6vlf76/5O0hC2nclSmquSueZLcgT5/bfea2005984c2b520dfba0ec1276e878/videoplayback__12_.mp4)
 
 ## Megatrends
 

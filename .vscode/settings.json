@@ -15,6 +15,8 @@
         "https://cunhapaulo.github.io/marpx/themes/newton.css",
         "https://cunhapaulo.github.io/marpx/themes/socrates.css",
         "https://cunhapaulo.github.io/marpx/themes/sparta.css"
-    ]
+    ],
+    "python-envs.pythonProjects": [],
+    "python-envs.defaultEnvManager": "ms-python.python:venv"
 
 }
