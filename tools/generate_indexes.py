@@ -1,7 +1,7 @@
 import os, re
 from jinja2 import Environment, FileSystemLoader
 
-env = Environment(loader=FileSystemLoader('./tools/'))
+env = Environment(loader=FileSystemLoader('../tools/'))
 
 def get_title_from_html(path):
     try:
