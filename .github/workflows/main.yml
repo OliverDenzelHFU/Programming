@@ -79,7 +79,7 @@ jobs:
       - name: Install dependencies
         run: pip install jinja2        
       - name: Generate Directory Listings
-        run: python tools/generate_indexes.py
+        run: python ../tools/generate_indexes.py
         working-directory: ./build                  
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
