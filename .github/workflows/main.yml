@@ -40,6 +40,11 @@ jobs:
           args: -I . -o build/pdf --allow-local-files --pdf-notes --pdf-outlines --pdf
         env:
           MARP_USER: root:root
+      - name: Install dependencies
+        run: pip install jinja2        
+      - name: Generate Directory Listings
+        run: python ../tools/generate_indexes.py
+        working-directory: ./build                  
       - name: Upload Slides
         uses: actions/upload-artifact@v4
         with:
@@ -76,11 +81,6 @@ jobs:
          
       - name: Setup Pages
         uses: actions/configure-pages@v5
-      - name: Install dependencies
-        run: pip install jinja2        
-      - name: Generate Directory Listings
-        run: python ../tools/generate_indexes.py
-        working-directory: ./build                  
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
