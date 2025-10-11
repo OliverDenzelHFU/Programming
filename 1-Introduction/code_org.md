@@ -1,15 +1,11 @@
 ---
 marp: true
-theme: gaia
-footer: ':copyright: 2024 Oliver Denzel'
+theme: sparta
 paginate: true
-class: gaia
 headingDivider: 2
-backgroundImage: linear-gradient(to bottom,darkgrey,black)
 ---
 <!-- _paginate: skip -->
-<!-- _class: gaia lead -->
-
+<!-- _class: title -->
 # Code.org
 
 ![bg left:40%](../img/robot2.jpg)

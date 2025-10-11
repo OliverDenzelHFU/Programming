@@ -1,29 +1,25 @@
 ---
 marp: true
-theme: gaia
-footer: ':copyright: 2024 Oliver Denzel'
+theme: sparta
 paginate: true
-class: gaia
-headingDivider: 1
-backgroundImage: linear-gradient(rgb(30, 65, 94) 10%, rgb(43, 91, 132) 90%);
+headingDivider: 2
 ---
 <!-- _paginate: skip -->
-<!-- _class: gaia lead -->
-# ![](https://www.python.org/static/img/python-logo@2x.png)
-## Intro
+<!-- _class: title -->
+# ![](../img/python-logo-only.svg)
 ![bg left:40%](../img/robot4.jpg)
 
-# Why Python?
+## Why Python?
 > Python is the most researched and fastest growing of the leading programming languages.
 
 [Pypl, 2024](https://pypl.github.io/PYPL.html)
 
-# Why Python?
+## Why Python?
 * Data Science
 * Web Development
 * Scripting
 
-# Why Python?
+## Why Python?
 * Netflix
 * Dropbox
 * Stripe
@@ -31,18 +27,18 @@ backgroundImage: linear-gradient(rgb(30, 65, 94) 10%, rgb(43, 91, 132) 90%);
 * Spotify
 * Uber
 
-# How Everything fits together
+## How Everything fits together
 [![](https://mermaid.ink/img/pako:eNpVjk0KwjAQha8SZm09QAQX6koUpAVX2YRm2gSbSRgni1J6dwMq6O57PzzeAn1yCBpGttmrS7szdAjkkFXT7NW55Fk-fJvFJ6p5i3kK8u_du-2xDv2asIGIHG1wdX4xpJQB8RjRgK7oLD8MGFprzxZJ3Uw9aOGCG-BURg96sNOzqpKdFTwFWz_GbwVdkMTX9_k-0RBGWF8-i0Sr?type=png)](https://mermaid-js.github.io/mermaid-live-editor//edit#pako:eNpVjk0KwjAQha8SZm09QAQX6koUpAVX2YRm2gSbSRgni1J6dwMq6O57PzzeAn1yCBpGttmrS7szdAjkkFXT7NW55Fk-fJvFJ6p5i3kK8u_du-2xDv2asIGIHG1wdX4xpJQB8RjRgK7oLD8MGFprzxZJ3Uw9aOGCG-BURg96sNOzqpKdFTwFWz_GbwVdkMTX9_k-0RBGWF8-i0Sr)
 
-# Replit Start
+## Replit Start
 [replit](https://replit.com/@OliverDenzelHFU/HelloWorld?v=1)
 <iframe src="https://replit.com/@OliverDenzelHFU/HelloWorld?embed=true" width="600" height="400"></iframe>
 
-# [Glot.io Start](https://glot.io/snippets/h0y5qqpwx7)
+## [Glot.io Start](https://glot.io/snippets/h0y5qqpwx7)
 
 <iframe width="900" height="500" src="https://glot.io/snippets/h0y5qqpwx7"></iframe>
 
-# PyScript
+## PyScript
 
 <iframe src="https://oliverdenzelhfu.pyscriptapps.com/helloworld/"></iframe>
 

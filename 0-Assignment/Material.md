@@ -1,14 +1,11 @@
 ---
 marp: true
-theme: gaia
-footer: ':copyright: 2024 Oliver Denzel'
+theme: sparta
 paginate: true
-class: gaia
 headingDivider: 2
-
 ---
 <!-- _paginate: skip -->
-<!-- _class: gaia lead -->
+<!-- _class: title -->
 
 # Reading Tips for the assignment
 ![bg left:40%](../img/robot11.jpg)
@@ -43,7 +40,6 @@ headingDivider: 2
 
 * [Hard working Movie stars](https://resume.io/blog/worlds-hardest-working-hollywood-stars)
 * [Netflix Top10](https://top10.netflix.com)
-* [Kevin Bacon Game](https://digg.com/stat-significant/link/quantifying-the-kevin-bacon-game-a-statistical-exploration-of-hollywoods-most-connected-actors?utm_source=digg)
 
 ## Covid 19 related
 
