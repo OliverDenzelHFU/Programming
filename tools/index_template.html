@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ directory_name }}</title>
+  <style>
+    body {
+      font-family: system-ui, sans-serif;
+      background: #f9f9f9;
+      color: #222;
+      padding: 2rem;
+      max-width: 1000px;
+      margin: 0 auto;
+    }
+    h1 {
+      border-bottom: 2px solid #ddd;
+      padding-bottom: 0.3rem;
+    }
+    .file-list {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: 1.5rem;
+      margin-top: 2rem;
+    }
+    .file {
+      background: white;
+      border-radius: 10px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      padding: 1rem;
+      text-align: center;
+      transition: transform 0.2s;
+    }
+    .file:hover { transform: scale(1.03); }
+    .file img {
+      max-width: 100%;
+      border-radius: 6px;
+      margin-bottom: 0.5rem;
+    }
+    a {
+      color: #0070f3;
+      text-decoration: none;
+      word-wrap: break-word;
+    }
+    a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <h1>{{ directory_name }}</h1>
+  <div class="file-list">
+    {% for d in dirs %}
+      <div class="file">
+        <a href="{{ d.relpath }}">{{ d.name }}</a>
+      </div>
+    {% endfor %}
+  </div>
+  <div class="file-list">
+    {% for f in files %}
+      <div class="file">
+        {% if f.is_image %}
+          <img src="{{ f.relpath }}" alt="{{ f.name }}">
+        {% endif %}
+        <a href="{{ f.relpath }}">{{ f.title or f.name }}</a>
+      </div>
+    {% endfor %}
+  </div>
+</body>
+</html>
