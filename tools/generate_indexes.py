@@ -45,7 +45,7 @@ for root, dirs, files in os.walk('.'):
         }
         diritems.append(info)
     # Nur schreiben, wenn das Verzeichnis Dateien enthält
-    if fileitems:
+    if fileitems or diritems:
         output = template.render(
             directory_name=os.path.basename(root) or "Startseite",
             files=fileitems,
@@ -54,4 +54,4 @@ for root, dirs, files in os.walk('.'):
         outpath = os.path.join(root, 'index.html')
         with open(outpath, 'w', encoding='utf-8') as out:
             out.write(output)
-        print(f"✅ {outpath} erstellt ({len(fileitems)} Dateien)")
+        print(f"✅ {outpath} erstellt.")
