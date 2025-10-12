@@ -53,7 +53,7 @@ for root, dirs, files in os.walk('.'):
         )
         outpath = os.path.join(root, 'index.html')
         if (not os.path.exists(outpath)):
-            with open(outpath, os.O_WRONLY | os.O_CREAT, encoding='utf-8') as out:
+            with open(outpath, flags=(os.O_WRONLY | os.O_CREAT| os.O_TRUNC), encoding='utf-8') as out:
                 out.write(output)
             print(f"✅ {outpath} erstellt.")
         else:
