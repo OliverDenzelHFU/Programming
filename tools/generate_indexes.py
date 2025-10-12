@@ -13,7 +13,7 @@ def get_title_from_html(path):
         return None
 
 def is_image(fname):
-    return any(fname.lower().endswith(ext) for ext in ('.png', '.jpg', '.jpeg', '.gif', '.webp'))
+    return any(fname.lower().endswith(ext) for ext in ('.png', '.jpg', '.jpeg', '.gif', '.webp', '.svg'))
 
 template = env.get_template('index_template.html')
 
@@ -35,7 +35,7 @@ for root, dirs, files in os.walk('.'):
             "title": get_title_from_html(path) if fname.endswith('.html') else None,
         }
         fileitems.append(info)
-    diritems = []
+    diritems = [{"name":"back","relpath":".."}]
     for dname in sorted(dirs):
         if dname.startswith('.'):
             continue
@@ -44,6 +44,7 @@ for root, dirs, files in os.walk('.'):
             "relpath" : dname
         }
         diritems.append(info)
+
     # Nur schreiben, wenn das Verzeichnis Dateien enthält
     if fileitems or diritems:
         output = template.render(
