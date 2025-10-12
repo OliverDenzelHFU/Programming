@@ -53,7 +53,16 @@ for root, dirs, files in os.walk('.'):
         )
         outpath = os.path.join(root, 'index.html')
         if (not os.path.exists(outpath)):
-            with open(outpath, flags=(os.O_WRONLY | os.O_CREAT| os.O_TRUNC), encoding='utf-8') as out:
+            descriptor = os.open(
+                path=outpath,
+                flags=(
+                    os.O_WRONLY  # access mode: write only
+                    | os.O_CREAT  # create if not exists
+                    | os.O_TRUNC  # truncate the file to zero
+                ),
+                mode=0o777
+            )
+            with open(descriptor, 'w', encoding='utf-8') as out:
                 out.write(output)
             print(f"✅ {outpath} erstellt.")
         else:
