@@ -52,8 +52,8 @@ for root, dirs, files in os.walk('.'):
             dirs=diritems
         )
         outpath = os.path.join(root, 'index.html')
-        if (not os.path.exists(outpath) and os.access(outpath, os.W_OK)):
-            with open(outpath, 'w', encoding='utf-8') as out:
+        if (not os.path.exists(outpath)):
+            with open(outpath, os.O_WRONLY | os.O_CREAT, encoding='utf-8') as out:
                 out.write(output)
             print(f"✅ {outpath} erstellt.")
         else:
