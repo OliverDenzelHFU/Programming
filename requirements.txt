@@ -8,3 +8,4 @@ otter-grader
 jupyterlite
 jupyterlite-pyodide-kernel
 jinja2
+ipywidgets
