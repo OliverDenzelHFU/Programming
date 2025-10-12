@@ -41,7 +41,7 @@ jobs:
         env:
           MARP_USER: root:root
       - name: Install dependencies
-        run: pip install jinja2 && chmod -R 777 build        
+        run: pip install jinja2 && sudo chmod -R 777 build        
       - name: Generate Directory Listings
         run: python ../tools/generate_indexes.py
         working-directory: build                  
