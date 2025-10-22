@@ -62,6 +62,7 @@ titanic = pd.read_csv("data/titanic.csv")
 * Let the wizards hat tell you: 
     * the amount of water drunken <small>(200ml, 250ml, 250ml, 355 ml)</small>
     * the amount of calories <small>(4 kcal, 5 kcal, 105 kcal, 153 kcal)</small>
+* Bonus: Cost, Amount of Sugar, % of daily intake
 
 ## Demo & Exercise
 ### [Python / Jupyter Exercise & Demo](https://mybinder.org/v2/gh/OliverDenzelHFU/Programming/06d20b395168c9750f7cee1e2ab70e477752a42a?urlpath=lab%2Ftree%2F3-Variables%2FVariables.ipynb)
