@@ -62,7 +62,7 @@ titanic = pd.read_csv("data/titanic.csv")
 * Let the wizards hat tell you: 
     * the amount of water drunken <small>(200ml, 250ml, 250ml, 355 ml)</small>
     * the amount of calories <small>(4 kcal, 5 kcal, 105 kcal, 153 kcal)</small>
-* Bonus: Cost, Amount of Sugar, % of daily intake
+* Bonus: Cost, Amount of Sugar, % of daily intake of caffeine, ...
 
 ## Demo & Exercise
 ### Python / Jupyter Exercise & Demo
@@ -74,12 +74,6 @@ titanic = pd.read_csv("data/titanic.csv")
 * Add energy drink and sodas, water and calories
 * Format as table using `\t` (e.g. Coffee\tTea\tEnergy\Soda)
 * Download changed Notebook
-
-# [Demo & Exercise Glot.io](https://glot.io/snippets/h15viox8ry)
-* Login and Fork
-* Add Input Text to Input box
-* Add energy drink and sodas, water and calories
-* Format as table using `\t` (e.g. Coffee\tTea\tEnergy\Soda)
 
 ## Till next time
 
