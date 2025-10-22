@@ -65,7 +65,11 @@ titanic = pd.read_csv("data/titanic.csv")
 * Bonus: Cost, Amount of Sugar, % of daily intake
 
 ## Demo & Exercise
-### [Python / Jupyter Exercise & Demo](https://mybinder.org/v2/gh/OliverDenzelHFU/Programming/06d20b395168c9750f7cee1e2ab70e477752a42a?urlpath=lab%2Ftree%2F3-Variables%2FVariables.ipynb)
+### Python / Jupyter Exercise & Demo
+
+[![Lite](https://pypi-camo.freetls.fastly.net/4946a95afc1514558f07534b4cd78824d41d6e20/68747470733a2f2f6a7570797465726c6974652e727466642e696f2f656e2f6c61746573742f5f7374617469632f62616467652e737667)](https://oliverdenzelhfu.github.io/Programming/lite/notebooks/index.html?path=Variables.ipynb)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OliverDenzelHFU/Programming/06d20b395168c9750f7cee1e2ab70e477752a42a?urlpath=lab%2Ftree%2F3-Variables%2FVariables.ipynb)
 
 * Add energy drink and sodas, water and calories
 * Format as table using `\t` (e.g. Coffee\tTea\tEnergy\Soda)
