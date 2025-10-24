@@ -15,6 +15,7 @@ headingDivider: 2
 * Can be Ordinals, Text, List, Objects
 * Name is a textual reference
 * Calulation is possible
+![bg right:50%](../img/qrcodeVariable.png)
 
 ## Ordinals
 
@@ -58,11 +59,11 @@ titanic = pd.read_csv("data/titanic.csv")
 
 * Remix to your account (Login first)
 * Add [caffeine quantity](https://www.eufic.org/en/healthy-living/article/caffeine-levels-in-different-foods-and-drinks) for energy <small>(80 mg)</small> and sodas <small>(37 mg)</small>
-* Add labels for the icons at each sprite
+* Add labels for the icons at each sprite (either to background or sprite)
 * Let the wizards hat tell you: 
     * the amount of water drunken <small>(200ml, 250ml, 250ml, 355 ml)</small>
     * the amount of calories <small>(4 kcal, 5 kcal, 105 kcal, 153 kcal)</small>
-* Bonus: Cost, Amount of Sugar, % of daily intake of caffeine, ...
+* Bonus: Cost, Color of Icons, text to speech, % of daily intake of caffeine, ...
 
 ## Demo & Exercise
 ### Python / Jupyter Exercise & Demo
