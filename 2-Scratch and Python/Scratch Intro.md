@@ -3,10 +3,12 @@ marp: true
 theme: sparta
 paginate: true
 headingDivider: 2
+title: Scratch Intro
 ---
 <!-- _paginate: skip -->
-# Scratch Intro
 <!-- _class: title -->
+# Scratch Intro
+
 ![bg left:40%](../img/robot3.jpg)
 
 ---

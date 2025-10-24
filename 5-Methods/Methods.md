@@ -1,27 +1,27 @@
 ---
 marp: true
-theme: gaia
-footer: ':copyright: 2024 Oliver Denzel'
+theme: sparta
 paginate: true
-class: gaia
-headingDivider: 1
-backgroundImage: linear-gradient(rgb(255, 140, 26) 10%, darkred 90%);
+headingDivider: 2
+title: Methods
 ---
 <!-- _paginate: skip -->
-<!-- _class: gaia lead -->
+<!-- _class: title -->
 # Methods
-## Intro
 ![bg left:40%](../img/robot8.jpg)
 
-# What is it?
+## Link
+![w:400](../img/qrcodeMethods.svg)
+
+## What is it?
 > A method is a callable unit of software logic. It has an identifier, potentially parameters and possibly a return value.
 
-# Methods
-## Scratch
+## Methods
+### Scratch
 ![](../img/scratch/methods/methods.svg)
 
-# Methods
-## Python
+## Methods
+### Python
 ```python
 def fac(x):
     # Faculty for 0 is defined as 1
@@ -33,11 +33,11 @@ def fac(x):
 
 fac(5)
 ```
-# Scratch
+## Scratch
 [Sierpinski](https://scratch.mit.edu/projects/24584643/editor)
 [Recursion Tree](https://scratch.mit.edu/projects/10240446/editor)
 
-# Exercise
+## Exercise
 Calculator for factorial
 1. Input of a number
 2. Calculate factorial in method (recursivly)
@@ -45,14 +45,14 @@ Calculator for factorial
 
 [Factorial?](https://www.youtube.com/watch?v=wfkIiVJ-O50)
 
-# Python / Jupyter
+## Python / Jupyter
 [Example & Exercise](https://mybinder.org/v2/gh/OliverDenzelHFU/Programming/main?filepath=5-Methods%2FMethods.ipynb)
 
 Exercise
 1. test functions abs, ascii, hex, min, max, round. (Add at point Function call with parameters)
 2. Make a binder of the notebook
 
-# For next time
+## For next time
 [Watch](https://www.youtube.com/watch?v=ohCDWZgNIU0)
 
 Either

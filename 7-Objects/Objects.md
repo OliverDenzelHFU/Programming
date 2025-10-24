@@ -1,14 +1,11 @@
 ---
 marp: true
-theme: gaia
-footer: ':copyright: 2024 Oliver Denzel'
+theme: sparta
 paginate: true
-class: gaia
-headingDivider: 1
-backgroundImage: linear-gradient(rgb(255, 171, 14) 10%, darkkhaki 90%);
+headingDivider: 2
+title: Scratch Intro
 ---
 <!-- _paginate: skip -->
-<!-- _class: gaia lead -->
+<!-- _class: title -->
 # Objects
-## Intro
 ![bg left:40%](../img/robot10.jpg)

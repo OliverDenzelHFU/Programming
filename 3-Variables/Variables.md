@@ -3,11 +3,13 @@ marp: true
 theme: sparta
 paginate: true
 headingDivider: 2
+title: Variables
 ---
 <!-- _paginate: skip -->
 <!-- _class: title -->
 # Variables
-![bg left:40%](../img/robot6.jpg)
+![bg](../img/robot6.jpg)
+![bg left:70%](../img/qrcodeVariable.png)
 
 ## What are variables
 
@@ -15,7 +17,7 @@ headingDivider: 2
 * Can be Ordinals, Text, List, Objects
 * Name is a textual reference
 * Calulation is possible
-![bg right:50%](../img/qrcodeVariable.png)
+
 
 ## Ordinals
 
