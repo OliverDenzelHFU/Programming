@@ -3,6 +3,7 @@ marp: true
 theme: sparta
 paginate: true
 headingDivider: 2
+title: Introduction
 ---
 <!-- _paginate: skip -->
 <!-- _class: title -->
@@ -11,7 +12,7 @@ headingDivider: 2
 ![bg left:40%](../img/robot1.jpg)
 
 ## Scan me
-![bg left:60%](../img/qrcode.svg)
+![bg left:80% 80%](../img/qrcode.svg)
 
 ## Why should I learn to program?
 

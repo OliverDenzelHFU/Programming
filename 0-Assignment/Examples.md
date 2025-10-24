@@ -3,6 +3,7 @@ marp: true
 theme: sparta
 paginate: true
 headingDivider: 2
+title: Examples of Projects
 ---
 <!-- _paginate: skip -->
 <!-- _class: title -->

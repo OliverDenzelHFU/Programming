@@ -3,6 +3,7 @@ marp: true
 theme: sparta
 paginate: true
 headingDivider: 2
+title: Reading Tips
 ---
 <!-- _paginate: skip -->
 <!-- _class: title -->

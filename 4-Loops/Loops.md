@@ -11,7 +11,7 @@ title: Loops and Conditions
 ![bg left:40%](../img/robot7.jpg)
 
 ## Link
-![w:400](../img/qrcodeLoops.svg)
+![bg left:80% 80%](../img/qrcodeLoops.svg)
 
 ## Overview
 > Conditions are executed once at most, loops possibly multiple times.
@@ -44,9 +44,7 @@ while (sunUp):
 [Start Demo...](https://scratch.mit.edu/projects/398569407/)
 [And Exercise...](https://studio.code.org/s/frozen/lessons/1/levels/4)
 ## Demo Python
-[![Lite](https://pypi-camo.freetls.fastly.net/4946a95afc1514558f07534b4cd78824d41d6e20/68747470733a2f2f6a7570797465726c6974652e727466642e696f2f656e2f6c61746573742f5f7374617469632f62616467652e737667)](https://oliverdenzelhfu.github.io/Programming/lite/notebooks/index.html?path=Loops.ipynb)
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OliverDenzelHFU/Programming/main?urlpath=tree%2F4-Loops%2FLoops.ipynb)
+[![Lite](https://pypi-camo.freetls.fastly.net/4946a95afc1514558f07534b4cd78824d41d6e20/68747470733a2f2f6a7570797465726c6974652e727466642e696f2f656e2f6c61746573742f5f7374617469632f62616467652e737667)](https://oliverdenzelhfu.github.io/Programming/lite/notebooks/index.html?path=Loops.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OliverDenzelHFU/Programming/main?urlpath=tree%2F4-Loops%2FLoops.ipynb)
 
 
 1. Change the latitude and longitude to your position

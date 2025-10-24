@@ -9,18 +9,23 @@ title: Variables
 <!-- _class: title -->
 # Variables
 ![bg](../img/robot6.jpg)
-![bg left:70%](../img/qrcodeVariable.png)
+
+## Link
+![bg left:80% 80%](../img/qrcodeVariable.png)
 
 ## What are variables
 
 * Places / Names to store values
 * Can be Ordinals, Text, List, Objects
 * Name is a textual reference
-* Calulation is possible
-
+* Calculation is possible
 
 ## Ordinals
-
+![](../img/scratch/variables/change.svg)
+![](../img/scratch/variables/set.svg)
+![](../img/scratch/variables/setWithCalculation.svg)
+![](../img/scratch/variables/show.svg)
+![](../img/scratch/variables/hide.svg)
 ```python
 c = 10
 pi = 3.1415
@@ -28,26 +33,19 @@ sunUp = True
 radius = 10
 circumfence = 2*radius*pi
 ```
-
-![](../img/scratch/variables/change.svg)
-![](../img/scratch/variables/set.svg)
-![](../img/scratch/variables/setWithCalculation.svg)
-![](../img/scratch/variables/show.svg)
-![](../img/scratch/variables/hide.svg)
-
+## Text
+![](../img/scratch/variables/textExample.svg)
+```python
+welcome = "Hello World!"
+username = "Denzel"
+greeting = welcome + " " + username
+```
 ## Lists
 ```python
 cats = ["Lion", "Tiger", "Gepard"]
 odd = [1,3,5,7,9]
 favorites = [13, Black, "Chocolate"]
 ```
-## Text
-```python
-welcome = "Hello World!"
-username = "Denzel"
-greeting = welcome + " " + username
-```
-![](../img/scratch/variables/textExample.svg)
 ## Objects
 ```python
 control = widgets.IntSlider(100)
@@ -69,10 +67,7 @@ titanic = pd.read_csv("data/titanic.csv")
 
 ## Demo & Exercise
 ### Python / Jupyter Exercise & Demo
-
-[![Lite](https://pypi-camo.freetls.fastly.net/4946a95afc1514558f07534b4cd78824d41d6e20/68747470733a2f2f6a7570797465726c6974652e727466642e696f2f656e2f6c61746573742f5f7374617469632f62616467652e737667)](https://oliverdenzelhfu.github.io/Programming/lite/notebooks/index.html?path=Variables.ipynb)
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OliverDenzelHFU/Programming/06d20b395168c9750f7cee1e2ab70e477752a42a?urlpath=lab%2Ftree%2F3-Variables%2FVariables.ipynb)
+[![Lite](https://pypi-camo.freetls.fastly.net/4946a95afc1514558f07534b4cd78824d41d6e20/68747470733a2f2f6a7570797465726c6974652e727466642e696f2f656e2f6c61746573742f5f7374617469632f62616467652e737667)](https://oliverdenzelhfu.github.io/Programming/lite/notebooks/index.html?path=Variables.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OliverDenzelHFU/Programming/06d20b395168c9750f7cee1e2ab70e477752a42a?urlpath=lab%2Ftree%2F3-Variables%2FVariables.ipynb)
 
 * Add energy drink and sodas, water and calories
 * Format as table using `\t` (e.g. Coffee\tTea\tEnergy\Soda)

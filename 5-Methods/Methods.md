@@ -11,7 +11,7 @@ title: Methods
 ![bg left:40%](../img/robot8.jpg)
 
 ## Link
-![w:400](../img/qrcodeMethods.svg)
+![bg left:80% 80%](../img/qrcodeMethods.svg)
 
 ## What is it?
 > A method is a callable unit of software logic. It has an identifier, potentially parameters and possibly a return value.

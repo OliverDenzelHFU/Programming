@@ -1,26 +1,25 @@
 ---
 marp: true
-theme: gaia
-footer: ':copyright: 2024 Oliver Denzel'
+theme: sparta
 paginate: true
-class: gaia
-headingDivider: 1
-backgroundImage: linear-gradient(rgb(255, 140, 26) 10%, darkred 90%);
+headingDivider: 2
+title: Lists
 ---
 <!-- _paginate: skip -->
-<!-- _class: gaia lead -->
+<!-- _class: title -->
 # Lists
-## Intro
 ![bg left:40%](../img/robot9.jpg)
-# Summary
-## Problem
+## Link
+![bg left:80% 80%](../img/qrcodeLists.svg)
+## Summary
+### Problem
 How to store more than one item in a variable
-## Solution
+### Solution
 Using list, one variable can hold 0-n values in the correct order.
-## Result
+### Result
 Working on huge datasets is possible
 
-# [Scratch](https://scratch.mit.edu/projects/403204071/)
+## [Scratch](https://scratch.mit.edu/projects/403204071/)
 Extend the game to:
 1. Count incorrect words (new variable)
 2. Display ratio of correct / incorrect guesses
@@ -28,11 +27,13 @@ Extend the game to:
 4. Change allowedWords to another language
 5. Add currentChar to a new list
 
-# [Jupyter](https://mybinder.org/v2/gh/OliverDenzelHFU/Programming/main?filepath=6-Lists%2FLists.ipynb)
+## [Python](https://mybinder.org/v2/gh/OliverDenzelHFU/Programming/main?filepath=6-Lists%2FLists.ipynb)
+
+[![Lite](https://pypi-camo.freetls.fastly.net/4946a95afc1514558f07534b4cd78824d41d6e20/68747470733a2f2f6a7570797465726c6974652e727466642e696f2f656e2f6c61746573742f5f7374617469632f62616467652e737667)](https://oliverdenzelhfu.github.io/Programming/lite/notebooks/index.html?path=Lists.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OliverDenzelHFU/Programming/main?urlpath=tree%2F5-Lists%2FLists.ipynb)
 
 Exercise written inline in Jupyter Notebook.
 
-# For next time
+## For next time
 For the next time:
 [Video](https://www.youtube.com/watch?v=rJzjDszODTI)
 Exercise: 
