@@ -55,14 +55,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Copy images
-        run: mkdir -p build/lite
+      - name: Build Environment
+        run: mkdir -p build/lite; mkdir content; mv [[:digit:]]* content
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
             python-version: '3.11'
       - run: pip install -r requirements.txt
-      - run: jupyter lite build --contents 2-Scratch\ and\ Python --contents 3-Variables --contents 4-Loops --contents 5-Methods --contents 6-Lists --contents 7-Objects --contents 8-Repetition --output-dir ./build/lite 
+      - run: jupyter lite build --contents content --output-dir ./build/lite 
       - name: Upload Lite
         uses: actions/upload-artifact@v4
         with:
