@@ -1,41 +1,37 @@
 {
-    "@jupyterlab/apputils-extension:notification": {
-      "checkForUpdates": false,
-      "fetchNews": "false"
+  "@jupyterlab/apputils-extension:notification": {
+    "checkForUpdates": false,
+    "doNotDisturbMode": false,
+    "fetchNews": "none"
+  },
+  "@jupyterlab/apputils-extension:themes": {
+    "adaptive-theme": true
+  },
+  "@jupyterlab/filebrowser-extension:browser": {
+    "showHiddenFiles": true
+  },
+  "@jupyterlab/notebook-extension:tracker": {
+    "codeCellConfig": {
+      "autoClosingBrackets": true,
+      "codeFolding": true,
+      "lineWrap": false
     },
-    "@jupyterlab/fileeditor-extension:plugin": {
-      "editorConfig": {
-        "autoClosingBrackets": true,
-        "codeFolding": true
-      }
+    "autoRenderMarkdownCells": true,
+    "scrollPastEnd": true,
+    "showEditorForReadOnlyMarkdown": true,
+    "showHiddenCellsButton": true,
+    "windowingMode": "full"  
+  },
+  "@jupyterlab/fileeditor-extension:plugin": {
+    "editorConfig": {
+      "autoClosingBrackets": true,
+      "codeFolding": true
     },
-    "@jupyterlab/completer-extension:manager": {
-        "showDocumentationPanel": true,
-        "autoCompletion": true
-      },
-    "@jupyterlab/notebook-extension:tracker": {
-        "codeCellConfig": {
-            "autoClosingBrackets": true,
-            "codeFolding": true,
-            "lineWrap": false
-        },
-        "autoStartDefaultKernel": true
-      },    
-    "@jupyterlab/mainmenu-extension:menus": {
-      "menus": [
-        {
-          "id": "jp-mainmenu-file",
-          "items": [
-            {
-              "command": "filemenu:logout",
-              "disabled": true
-            },
-            {
-              "command": "filemenu:shutdown",
-              "disabled": true
-            }
-          ]
-        }
-      ]
-    }
+    "scrollPastEnd": true,
+    "toolbar": []
+  },
+  "@jupyterlab/completer-extension:manager": {
+    "autoCompletion": true,
+    "suppressIfInlineCompleterActive": true
   }
+}
