@@ -1,0 +1,12 @@
+{
+  "LiteBuildConfig": {
+    "overrides": {
+      "files": {
+        "custom.css": "overrides/custom.css"
+      },
+      "labextensions": {
+        "load-custom-css": "overrides/plugins/load-custom-css"
+      }
+    }
+  }
+}
