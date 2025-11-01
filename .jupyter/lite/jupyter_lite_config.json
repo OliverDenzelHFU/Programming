@@ -1,6 +1,6 @@
 {
   "LiteBuildConfig": {
-    "files": [
+    "contents": [
       "overrides/custom.css"
     ],
     "federated_extensions": [
