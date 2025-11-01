@@ -65,6 +65,8 @@ jobs:
         run: mv .jupyter/lite/* .
       - name: Copy custom.css to overrides
         run: cp .jupyter/custom/custom.css overrides
+      - name: Show status before build
+        run: ls -lhR
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
