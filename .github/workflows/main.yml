@@ -56,7 +56,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Build Environment
-        run: mkdir -p build/lite; mkdir content; mv [[:digit:]]* content;cp overrides.json content/;mv .jupyter/lite/* .;cp .jupyter/custom/custom.css overrides
+        run: mkdir -p build/lite content
+      - name: Move Notebooks to Content
+        run: mv [[:digit:]]* content
+      - name: Copy Overrides to Contents
+        run: cp overrides.json content/
+      - name: Move Jupyter lite files to liteDir
+        run: mv .jupyter/lite/* .
+      - name: Copy custom.css to overrides
+        run: cp .jupyter/custom/custom.css overrides
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
