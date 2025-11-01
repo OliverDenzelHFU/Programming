@@ -56,7 +56,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Build Environment
-        run: mkdir -p build/lite; mkdir content; mv [[:digit:]]* content;cp overrides.json content;mv .jupyter/lite/* .
+        run: mkdir -p build/lite; mkdir content; mv [[:digit:]]* content;cp overrides.json content/;mv .jupyter/lite/* .;cp .jupyter/custom/custom.css overrides
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
