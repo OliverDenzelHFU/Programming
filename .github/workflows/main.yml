@@ -64,7 +64,7 @@ jobs:
       - name: Move Jupyter lite files to liteDir
         run: mv .jupyter/lite/* .
       - name: Copy custom.css to overrides
-        run: cp .jupyter/custom/custom.css /contents/overrides/
+        run: cp .jupyter/custom/custom.css /content/overrides/
       - name: Show status before build
         run: ls -lhR
       - name: Setup Python
