@@ -1,10 +1,10 @@
 {
   "LiteBuildConfig": {
-    "extra_files": {
-      "custom.css": "overrides/custom.css"
-    },
-    "federated_extensions": {
-      "load-custom-css": "overrides/plugins/load-custom-css"
-    }
+    "files": [
+      "overrides/custom.css"
+    ],
+    "federated_extensions": [
+      "overrides/plugins/load-custom-css"
+    ]
   }
 }
