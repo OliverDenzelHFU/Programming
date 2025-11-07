@@ -46,11 +46,12 @@ Calculator for factorial
 [Factorial?](https://www.youtube.com/watch?v=wfkIiVJ-O50)
 
 ## Python / Jupyter
-[Example & Exercise](https://mybinder.org/v2/gh/OliverDenzelHFU/Programming/main?filepath=5-Methods%2FMethods.ipynb)
+
+[![Lite](https://pypi-camo.freetls.fastly.net/4946a95afc1514558f07534b4cd78824d41d6e20/68747470733a2f2f6a7570797465726c6974652e727466642e696f2f656e2f6c61746573742f5f7374617469632f62616467652e737667)](https://oliverdenzelhfu.github.io/Programming/lite/notebooks/index.html?path=5-Methods%2FMethods.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OliverDenzelHFU/Programming/main?filepath=5-Methods%2FMethods.ipynb)
 
 Exercise
 1. test functions abs, ascii, hex, min, max, round. (Add at point Function call with parameters)
-2. Make a binder of the notebook
+2. Make a [binder](https://mybinder.org) of the notebook
 
 ## For next time
 [Watch](https://www.youtube.com/watch?v=ohCDWZgNIU0)
