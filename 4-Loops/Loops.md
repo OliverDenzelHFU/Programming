@@ -46,9 +46,11 @@ while (sunUp):
 ## Demo Python
 [![Lite](https://pypi-camo.freetls.fastly.net/4946a95afc1514558f07534b4cd78824d41d6e20/68747470733a2f2f6a7570797465726c6974652e727466642e696f2f656e2f6c61746573742f5f7374617469632f62616467652e737667)](https://oliverdenzelhfu.github.io/Programming/lite/notebooks/index.html?path=Loops.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OliverDenzelHFU/Programming/main?urlpath=tree%2F4-Loops%2FLoops.ipynb)
 
-
+1. Extend the Party example for youths
 1. Change the latitude and longitude to your position
 2. Add a fourth condition => between 12:00 and 13:00 for "Mahlzeit!"
+1. Add a warning for more than 5 cups of coffee
+1. Add a discount for more than 3 orders
 3. Change the Pattern Examples
 Create a bigger triangle
 Close the triangle at the bottom
