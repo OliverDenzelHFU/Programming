@@ -20,7 +20,7 @@
     "scrollPastEnd": true,
     "showEditorForReadOnlyMarkdown": true,
     "showHiddenCellsButton": true,
-    "windowingMode": "full"  
+    "windowingMode": "none"  
   },
   "@jupyterlab/fileeditor-extension:plugin": {
     "editorConfig": {
