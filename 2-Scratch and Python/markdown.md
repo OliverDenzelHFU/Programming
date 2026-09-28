@@ -1,17 +1,15 @@
 ---
 marp: true
-theme: gaia
-footer: ':copyright: 2024 Oliver Denzel'
+theme: sparta
+footer: ':copyright: 2026 Oliver Denzel'
 paginate: true
-class: gaia
 headingDivider: 1
-backgroundImage: linear-gradient(seagreen 10%, darkgreen 90%);
+
 ---
 <!-- _paginate: skip -->
-<!-- _class: gaia lead -->
+<!-- _class: lead -->
 
-# ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/416px-Markdown-mark.svg.png)
-## Markdown Intro
+# Markdown Intro
 ![bg left:40%](../img/robot5.jpg)
 
 # Why Markdown?
@@ -93,4 +91,5 @@ There are numerous tools that support Markdown. Many developer tools, like Visua
 * Jupyter Notebooks: Interactive notebooks for data  scientists
 * MkDocs: Create documentation websites using Markdown
 * Hugo: Fast website generator
+* Quarto: Reports, presentations & websites from one source
 <!-- Speaker notes: There are many exciting projects that build on Markdown or are inspired by its simplicity. Marpit allows you to write presentations in Markdown, Jupyter is used by data scientists to combine code and documentation, and MkDocs helps create documentation websites. -->

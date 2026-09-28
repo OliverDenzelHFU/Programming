@@ -7,27 +7,31 @@ title: Introduction
 ---
 <!-- _paginate: skip -->
 <!-- _class: title -->
-# Introduction
+# Programming für Wirtschaftspsychologen
+
 
 ![bg left:40%](../img/robot1.jpg)
 
 ## Scan me
 ![bg left:80% 80%](../img/qrcode.svg)
 
-## Why should I learn to program?
+<!-- _class: lead -->
+## Warum **Programmieren** für **BMP**?
 
-* Own developing experience
-* Writing **small** programs
-* Have fun!
-* A lot of interaction
-* Implement your ideas
+> "Psychologie trifft auf Daten – und Daten brauchen Code."
 
-## What do I learn?
+* Eigene Analysen durchführen (z.B. Umfragen zu Arbeitszufriedenheit)
+* Kleine Programme für psychologische Experimente schreiben
+* Daten visualisieren (z.B. **Consumer Behaviour**, **Big Five Tests**)
+* Automatisieren (z.B. Auswertung von Daten)
 
-* Logical thinking
-* Foreign Language
-* Digital Know How
-* Thinking like a programmer
+## 🎯 **Was lernst du?**
+   Kompetenz | BMP-Bezug | Beispiel |
+ |-----------|-----------|----------|
+ | *Logisches Denken* | Hypothesen testen | A/B-Tests für Marketing |
+ | *Fremdsprache* | Python als "Wissenschaftssprache" | Datenanalyse mit pandas |
+ | *Digital Know-How*| Tools der Praxis | Jupyter, Scratch, GitHub |
+ | *Denken wie ein Programmierer* | Problemlösungskompetenz | Algorithmen für Personalauswahl |
 
 ## Why?
 
@@ -39,6 +43,12 @@ title: Introduction
 
 ---
 
+![bg left:80% 80%](https://www.bitkom.org/sites/main/files/styles/wide/public/2026-09/bitkom-97-prozent-haben-schwierigkeiten-it-stellen-zu-besetzten-web.png?itok=uZBTktV6)
+
+[Bitkom 09/26](https://www.bitkom.org/Presse/Presseinformation/IT-Fachkraeftemangel-in-den-letzten-drei-Jahren-halbiert#_)
+
+---
+
 ![bg left:80% 80%](https://www.bitkom-research.de/sites/default/files/2023-12/231212-PK-Fachkräfte-Web.jpg)
 [Source](https://www.bitkom.org/sites/main/files/2023-12/231213bitkom-chartsit-fachkraeftefinal.pdf)
 
@@ -47,18 +57,17 @@ title: Introduction
 ![bg left:80% 80%](https://bitkom-research.de/sites/default/files/0708.png)
 [Source](https://bitkom-research.de/news/deutschland-fehlen-weiterhin-mehr-als-100000-it-fachkraefte)
 
-## Why for Startups?
+## Warum für Startups?
 <!-- _class: dark quote -->
 > 8 von 10 Startups wollen neue Mitarbeiterinnen und Mitarbeiter einstellen.
 [Bitkom, 2024](https://www.bitkom.org/print/pdf/node/21708)
 
-## How?
+## Wie arbeiten wir?
 
-| Goals | Anti Patterns |
-| --- | --- |
-| + Consistent team Size | - Only one of the team works |
-| + Pair Programming | - Devastating Critics |
-| + Problem Solving | - Too Much Procrastination |
+- Alle Teams gleich groß
+- Alle arbeiten im Team mit
+- Pair Programming?
+- KI Einsatz muss markiert werden
 
 ## Pair Programming
 
@@ -75,18 +84,17 @@ title: Introduction
 
 ![bg](https://maqe-com-4-media-uploads.s3.ap-southeast-1.amazonaws.com/content/uploads/2020/04/07172748/IN_DEsignthinking_Cover-1.png)
 
-## Evalution with three parts
+## Drei Teile für die Leistungsbewertung
 
-1) Project documentation
-1) Python Program
-1) Scratch Program
+1) Dokumentation
+1) Python Programm
+1) Scratch Programm
 
 ## Teams
 
-* Teams of 6 students
-* Each team all 3 parts
-* Communication via MS Teams
-* Submission via Mail and MS Teams
+* 6er Teams
+* Jedes Team erfüllt alle 3 Anforderungen
+* Abgabe via Mail
 
 ---
 
@@ -105,19 +113,36 @@ title: Introduction
 ---
 
 <!-- _footer: "" -->
-![bg left:75% 100%](https://www.zukunftsinstitut.de/hubfs/Megatrend-Map_2021-1.png)
+![bg left:75% 100%](https://content.zukunftsinstitut.de/hubfs/25114941/Speaker%20Dokumente/MEGATREND%20DOKUMENTATION%202025/Megatrend%20Dokumentation%20Grafiken/_MTD-MegatrendMap2025-blanko-web.jpg)
 
-[Source](https://www.zukunftsinstitut.de/hubfs/Megatrend-Map_2021-1.png)
+[Source](https://content.zukunftsinstitut.de/hubfs/25114941/Speaker%20Dokumente/MEGATREND%20DOKUMENTATION%202025/Megatrend%20Dokumentation%20Grafiken/_MTD-MegatrendMap2025-blanko-web.jpg)
 
-## And... Action!
+## Und... Action!
 
-Form a team.
+Team finden.
 
-Choose one of the two Mega Trends:
+Mega Trend auswählen:
 
-* [Neo-Ökologie](https://www.zukunftsinstitut.de/zukunftsthemen/megatrend-neo-oekologie)
-* [Wissenskultur](https://www.zukunftsinstitut.de/zukunftsthemen/megatrend-wissenskultur)
+* [Gamification](https://wirtschaftslexikon.gabler.de/definition/gamification-53874)
+* [Corporate Health](https://omr.com/de/reviews/contenthub/corporate-health)
 
-Read the corresponding article.
+Artikel lesen, verstehen und diskutieren.
 
-Then choose one of the subtrends (e.g. Lifelong Learning)
+## Was ist möglich in Python?
+- Umfrageauswertung (Arbeitsklime in Unternehmen)
+- Datenbereinigung (Reale Daten aufbereiten)
+- Visualisierung (Alles was Excel kann und mehr)
+- Automatisierung (Täglich Daten herunterladen)
+
+Und das alles auch kombiniert!
+
+## Was ist möglich in Scratch?
+- Berufs- oder Studienwahl Test
+- Nudge-Simulation
+- Gedächtnis Tests
+- Belohnungs Systeme prüfen
+
+## Fragen?
+ **"Der beste Weg, Programmieren zu lernen: Einfach anfangen!"**
+
+> *Der Dozent*
