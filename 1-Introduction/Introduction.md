@@ -92,7 +92,7 @@ title: Introduction
 
 ## Teams
 
-* 6er Teams
+* 3er Teams / 6er Teams (ab 24 gesamt)
 * Jedes Team erfüllt alle 3 Anforderungen
 * Abgabe via Mail
 

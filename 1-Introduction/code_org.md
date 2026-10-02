@@ -10,7 +10,7 @@ headingDivider: 2
 
 ![bg left:40%](../img/robot2.jpg)
 
-## Start Now!
+## Start!
 
 1) [Mincecraft Hour of Code](https://studio.code.org/s/mc)
 1) [The Farmer 1](https://studio.code.org/s/20-hour/lessons/9/levels/1)
