@@ -25,7 +25,7 @@ title: Introduction
 * Daten visualisieren (z.B. **Consumer Behaviour**, **Big Five Tests**)
 * Automatisieren (z.B. Auswertung von Daten)
 
-## 🎯 **Was lernst du?**
+## 🎯 **Was lernen sie?**
    Kompetenz | BMP-Bezug | Beispiel |
  |-----------|-----------|----------|
  | *Logisches Denken* | Hypothesen testen | A/B-Tests für Marketing |
@@ -33,7 +33,7 @@ title: Introduction
  | *Digital Know-How*| Tools der Praxis | Jupyter, Scratch, GitHub |
  | *Denken wie ein Programmierer* | Problemlösungskompetenz | Algorithmen für Personalauswahl |
 
-## Why?
+## Warum?
 
 <video controls height="400px">
   <source src="https://contentful-videos.code.org/90t6bu6vlf76/7rqfxtd1mTrp2cBtkkbTHt/138f45d2b821d23f5819670d2e4c8c45/videoplayback__10_.mp4" />
@@ -62,7 +62,7 @@ title: Introduction
 > 8 von 10 Startups wollen neue Mitarbeiterinnen und Mitarbeiter einstellen.
 [Bitkom, 2024](https://www.bitkom.org/print/pdf/node/21708)
 
-## Wie arbeiten wir?
+## Wie arbeiten sie?
 
 - Alle Teams gleich groß
 - Alle arbeiten im Team mit
@@ -71,14 +71,14 @@ title: Introduction
 
 ## Pair Programming
 
-* One keyboard, two programmers
+* Eine Tastatur, Zwei Programmierer
 
-* Driver enters code
-* Driver cares about the details
+* Driver gibt den Code ein
+* Driver kümmert sich um Details
 
-* Navigator is responsible for the big picture
+* Navigator hat den Überblick
 
-* Constant change of roles (5-10 minutes)
+* Ständige Rollenwechsel (5-10 Minuten)
 
 ---
 
@@ -86,13 +86,13 @@ title: Introduction
 
 ## Drei Teile für die Leistungsbewertung
 
-1) Dokumentation
+1) Dokumentation in Deutsch oder Englisch
 1) Python Programm
 1) Scratch Programm
 
 ## Teams
 
-* 3er Teams / 6er Teams (ab 24 gesamt)
+* 3er Teams
 * Jedes Team erfüllt alle 3 Anforderungen
 * Abgabe via Mail
 

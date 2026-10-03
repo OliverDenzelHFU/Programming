@@ -9,46 +9,47 @@ headingDivider: 1
 <!-- _paginate: skip -->
 <!-- _class: lead -->
 
-# Markdown Intro
+# Markdown-Einführung
 ![bg left:40%](../img/robot5.jpg)
 
-# Why Markdown?
-- Easy to learn
-- Platform-independent
-- Fast to write
-- Clear and readable
-- Ideal for technical documentation
+# Warum Markdown?
 
-<!-- 
+- Leicht zu lernen
+- Plattformunabhängig
+- Schnell zu schreiben
+- Klar und lesbar
+- Ideal für technische Dokumentation
+
+<!--
 Speaker notes:
-Markdown was developed to provide an easy way to format text files without affecting their readability. It's used in many fields, especially in software development, where technical documentation needs to be created quickly and efficiently.
+Markdown formatiert Text ohne die Lesbarkeit zu beeinträchtigen, deshalb ist es der Standard für Dokumentation.
 -->
 
 # Syntax Overview
-- Headings: `#` for H1, `##` for H2, etc.
-- Bold and Italics: `**bold**`, `*italic*`
-- Lists: `-` or `1.`
+- Überschriften: `#` for H1, `##` for H2, etc.
+- Hervorhebung: `**bold**`, `*italic*`
+- Listen: `-` or `1.`
 - Links: `[Text](URL)`
-- Code blocks: \```\`\ for multiple lines
+- Code Blöcke: \```\`\ für mehrere Zeilen
 
 <!--
 Speaker notes:
-Markdown syntax is simple and straightforward. It uses minimal markup to allow for quick structuring of text. Nearly every formatting feature we know from word processors can be implemented with just a few characters.
+Wenige Zeichen genügen für fast alle Formatierungen, die man aus Textverarbeitungen kennt.
 -->
 
-# Who uses Markdown?
-- Developers
-- Technical writers
-- Bloggers
-- Scientists
-- Content creators
+# Wer nutzt Markdown?
+- Entwickler
+- Technische Autoren
+- Blogger
+- Wissenschaftler
+- Content Creator
 
 <!--
 Speaker notes:
-Markdown is widely used by developers for README files, which appear in projects on platforms like GitHub. Bloggers and technical writers also use it because it's easy to create and format clear text with it.
+Markdown ist überall verbreitet, besonders README-Dateien auf GitHub sind der Klassiker.
 -->
 
-# Companies using Markdown
+# Plattformen mit Markdown
 - [GitHub](https://github.com)
 - [GitLab](https://about.gitlab.com)
 - [Slack](https://slack.com)
@@ -57,10 +58,10 @@ Markdown is widely used by developers for README files, which appear in projects
 
 <!--
 Speaker notes:
-Major companies and platforms like GitHub and GitLab make extensive use of Markdown for documentation, issues, and wikis. Even platforms for team communication, like Slack and Trello, use Markdown or similar syntax for notes and descriptions.
+Alle genannten Plattformen nutzen Markdown für Dokumentation, Issues, Wikis oder Nachrichten.
 -->
 
-# What tools are available?
+# Welche Tools gibt es?
 - [Visual Studio Code](https://code.visualstudio.com) (Window, Macos, Linux)
 - [MarkdownPad](http://markdownpad.com) (Windows)
 - [Typora](https://typora.io) (macOS, Windows)
@@ -68,28 +69,34 @@ Major companies and platforms like GitHub and GitLab make extensive use of Markd
 - [Obsidian](https://obsidian.md) (iOS, Android, Windows, macOS, Linux)
 <!--
 Speaker notes:
-There are numerous tools that support Markdown. Many developer tools, like Visual Studio Code, offer plugins for Markdown previews. There are also dedicated Markdown editors that make writing and formatting easier.
+Obsidian oder Notion: Rückfrage, was zur Wissensveraltung benutzt wird.
 -->
 
-# Concrete example
+# Beispiel
 
 ```markdown
-## Heading 2
-**Bold** and *Italic* text.
-- Item 1
+## Überschrift 2
+**Bold** und *kursiver* Text.
+- Element 1
 ```
-## Heading 2
-**Bold** and *Italic* text.
-- Item 1
+## Überschrift 2
+**Bold** und *kursiver* Text.
+- Element 1
 
 [Markdown Guide](https://www.markdownguide.org)
 
-<!-- Speaker notes: Here’s a simple example of how Markdown is actually used. You can see how headings, bold, italics, lists, and links are displayed. A text like this is easy to read and works on many platforms directly. -->
+<!-- Speaker notes: 
+Weitere sind möglich, je nach Plattform.
+ -->
 # Related projects
 
-* Marpit: Create presentations using Markdown
-* Jupyter Notebooks: Interactive notebooks for data  scientists
-* MkDocs: Create documentation websites using Markdown
-* Hugo: Fast website generator
-* Quarto: Reports, presentations & websites from one source
-<!-- Speaker notes: There are many exciting projects that build on Markdown or are inspired by its simplicity. Marpit allows you to write presentations in Markdown, Jupyter is used by data scientists to combine code and documentation, and MkDocs helps create documentation websites. -->
+* Marpit: Präsentationen mit Markdown erstellen
+* Jupyter Notebooks: Interaktive Notebooks für Data Scientists
+* MkDocs: Dokumentations-Webseiten mit Markdown
+* Hugo: Schneller Website Generator
+* Quarto: Berichte, Präsentationen und Webseiten aus einer Quelle
+<!--
+Speaker notes:
+Diese Vorlesungsfolien sind selbst mit Marpit in Markdown geschrieben – der beste Beweis für das Konzept.
+PDF und HTML aus einer
+-->
