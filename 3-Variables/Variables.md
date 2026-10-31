@@ -8,7 +8,7 @@ title: Variables
 <!-- _paginate: skip -->
 <!-- _class: title -->
 # Variablen
-![bg](../img/robot6.jpg)
+![bg left:80% 80%](../img/robot6.jpg)
 <!--
 Speaker notes:
 Einstieg über die Scratch-Analogie: Variablen sind beschriftete Schubladen, in denen Werte liegen.
@@ -85,15 +85,15 @@ Kurzer Exkurs, wenn Zeit übrig ist: Der Computer speichert am Ende alles als Nu
 * [Koffein](https://www.eufic.org/en/healthy-living/article/caffeine-levels-in-different-foods-and-drinks) ergänzen für Energy <small>(80 mg)</small> und Limos ("Sodas") <small>(37 mg)</small>
 * Beschriften Sie die Symbole (entweder im Hintergrund oder auf der Figur)
 * Lassen Sie den Zauberhut folgendes ausgeben:
-    * die Menge getrunkenen Wassers <small>(200 ml, 250 ml, 250 ml, 355 ml)</small>
-    * die Menge Kalorien <small>(4 kcal, 5 kcal, 105 kcal, 153 kcal)</small>
+    * die Menge getrunkenen Wassers <small>(200 ml, 250 ml, 250 ml, 355 ml) pro Portion</small>
+    * die Menge Kalorien <small>(4 kcal, 5 kcal, 105 kcal, 153 kcal) pro Portion</small>
 
 Bonus: Kosten, Farben der Symbole, Sprachausgabe, Prozent des täglichen Koffeinkonsums, ...
 
 
 ## Demo & Übung
 ### Python / Jupyter 
-[![Lite](https://pypi-camo.freetls.fastly.net/4946a95afc1514558f07534b4cd78824d41d6e20/68747470733a2f2f6a7570797465726c6974652e727466642e696f2f656e2f6c61746573742f5f7374617469632f62616467652e737667)](https://oliverdenzelhfu.github.io/Programming/lite/notebooks/index.html?path=Variables.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OliverDenzelHFU/Programming/main?urlpath=%2Fdoc%2Ftree%2F3-Variables%2FVariables.ipynb)
+[![Lite](https://pypi-camo.freetls.fastly.net/4946a95afc1514558f07534b4cd78824d41d6e20/68747470733a2f2f6a7570797465726c6974652e727466642e696f2f656e2f6c61746573742f5f7374617469632f62616467652e737667)](https://oliverdenzelhfu.github.io/Programming/lite/notebooks/index.html?path=3-Variables/Variables.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OliverDenzelHFU/Programming/main?urlpath=%2Fdoc%2Ftree%2F3-Variables%2FVariables.ipynb)
 
 * Ergänzen Sie Energydrink und Limonade, Wasser und Kalorien
 * Formatieren Sie die Ausgabe als Tabelle mit \t (z. B. Kaffee\tTee\tEnergy\tLimo)
